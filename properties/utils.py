@@ -189,3 +189,6 @@ def get_redis_cache_metrics():
             'hit_ratio': 0.0,
             'hit_ratio_percentage': 0.0
         }
+
+
+#"if total_requests > 0 else 0"
